@@ -5,31 +5,31 @@
 </div>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=aonontojahan@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=bahalulhossainchowdhury@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/aonontojahan">
+  <a href="https://www.linkedin.com/in/bahalulhossainchowdhury">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-    <a href="https://aonontojahan.vercel.app/">
+    <a href="https://bahalulhossainchowdhury.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
-    <a href="https://www.x.com/in/aonontojahan">
+    <a href="https://www.x.com/in/bahalulhossainchowdhury">
     <img src="https://img.shields.io/badge/X-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/aonontojahan">
+  <a href="https://www.instagram.com/bahalulhossainchowdhury">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://t.me/aonontojahan">
+  <a href="https://t.me/bahalulhossainchowdhury">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://wa.me/8801723740704">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@aonontojahan">
+  <a href="https://www.youtube.com/@bahalulhossainchowdhury">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://linktr.ee/aonontojahan">
+  <a href="https://linktr.ee/bahalulhossainchowdhury">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white"/>
   </a>
 </p>
@@ -82,7 +82,7 @@ I speak the language of Python fluently, but more importantly, I speak the langu
 <h3 align="center"> Smart Calculator</h3>
 
 <p align="center">
-<a href="https://github.com/aonontojahan/Smart-Calculator">
+<a href="https://github.com/bahalulhossainchowdhury/Smart-Calculator">
 <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -111,7 +111,7 @@ Full-stack scientific calculator with modern and clean UI.
 <h3 align="center"> Event Management System</h3>
 
 <p align="center">
-<a href="https://github.com/aonontojahan/Event-Management-System">
+<a href="https://github.com/bahalulhossainchowdhury/Event-Management-System">
 <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -139,7 +139,7 @@ Complete event platform with registration and payment features.
 <h3 align="center"> MSLAT</h3>
 
 <p align="center">
-<a href="https://github.com/aonontojahan/Mini-System-Monitoring-Log-Analysis-Toolkit-MSLAT">
+<a href="https://github.com/bahalulhossainchowdhury/Mini-System-Monitoring-Log-Analysis-Toolkit-MSLAT">
 <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -172,7 +172,7 @@ System monitoring and log analysis toolkit.
 <h3 align="center"> Young Programmer Compiler</h3>
 
 <p align="center">
-<a href="https://github.com/aonontojahan/Young-Programmer-Compiler">
+<a href="https://github.com/bahalulhossainchowdhury/Young-Programmer-Compiler">
 <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -230,12 +230,12 @@ If you are seeking a Full-Stack Developer or Software Engineer with a strong fou
 My contact links are provided below — feel free to reach out and connect.
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aonontojahan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aonontojahan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aonontojahan.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aonontojahan/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aonontojahan)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aonontojahan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahalulhossainchowdhury@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahalulhossainchowdhury)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bahalulhossainchowdhury.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bahalulhossainchowdhury/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bahalulhossainchowdhury)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bahalulhossainchowdhury)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801723740704)
 
 </div>
@@ -249,8 +249,8 @@ My contact links are provided below — feel free to reach out and connect.
 
   <!-- GitHub Streak -->
   <p>
-    <a href="https://github.com/AonontoJahan">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AonontoJahan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <a href="https://github.com/bahalulhossainchowdhury">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bahalulhossainchowdhury&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </a>
   </p>
   
@@ -258,20 +258,20 @@ My contact links are provided below — feel free to reach out and connect.
   <br/>
   <picture>
     <source 
-      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=AonontoJahan&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=bahalulhossainchowdhury&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
       media="(prefers-color-scheme: dark)" />
     <img 
-      src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=AonontoJahan&show_icons=true&theme=default&bg_color=F6F8FA&hide_border=true" 
+      src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=bahalulhossainchowdhury&show_icons=true&theme=default&bg_color=F6F8FA&hide_border=true" 
       height="190" 
       alt="GitHub Stats" />
   </picture>
 
   <picture>
     <source 
-      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=AonontoJahan&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5" 
+      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=bahalulhossainchowdhury&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5" 
       media="(prefers-color-scheme: dark)" />
     <img 
-      src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=AonontoJahan&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5"
+      src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=bahalulhossainchowdhury&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5"
       height="190"
       alt="Top Languages" />
   </picture>
@@ -279,8 +279,8 @@ My contact links are provided below — feel free to reach out and connect.
   <!-- GitHub Contribution Graph -->
   <br/><br/>
   <p>
-    <a href="https://github.com/AonontoJahan">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AonontoJahan&theme=react-dark&bg_color=1F222E&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph" />
+    <a href="https://github.com/bahalulhossainchowdhury">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahalulhossainchowdhury&theme=react-dark&bg_color=1F222E&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph" />
     </a>
   </p>
 
@@ -311,8 +311,8 @@ I often find myself talking to computers more than people — and surprisingly, 
 
   <em>"The best code is simple, readable, and built to last."</em>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=AonontoJahan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bahalulhossainchowdhury&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F85D7F,100:4C71F2&section=footer&text=©%202026%20aonontojahan.vercel.app%20%7C%20All%20Rights%20Reserved&fontSize=14&fontColor=FFFFFF&animation=fadeIn&fontAlignY=85"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F85D7F,100:4C71F2&section=footer&text=©%202026%20bahalulhossainchowdhury.vercel.app%20%7C%20All%20Rights%20Reserved&fontSize=14&fontColor=FFFFFF&animation=fadeIn&fontAlignY=85"/>
 
 </div>
